@@ -1,0 +1,9 @@
+# Einführung
+
+In dieser Selbstlerneinheit befassen wir uns mit den Grundlagen zu Marketing & Sales Automation. Ihr könnt euch grundsätzlich im Kurs frei bewegen (in der Mitte starten, Kapitel auslassen, ...). Viel Spaß!
+
+<a href="media/02_Einfuehrung_MSA_HANDOUT.pdf" class="btn btn-primary" download>
+  <i class="bi bi-download"></i> Download Slides
+</a>
+
+{{< video https://youtu.be/jTxEUZj5Q6E >}}

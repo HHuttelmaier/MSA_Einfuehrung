@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: _site
+resources: ["media/*"]
+
+number-sections: true
+
+book:
+  title: "Einführung in Marketing & Sales Automation"
+  page-navigation: true
+  
+  author:
+  - name: Prof. Dr. Hannes Huttelmaier
+  - email: hannes.huttelmaier@thws.de
+  date: "last-modified"
+  chapters:
+    - index.qmd
+    - 02_Relevance.qmd
+    - 03_GrundlagenMSA.qmd
+    - 04_LeadmgmtInboundAccount.md
+    - 05_Plattformen.md
+  
+  sidebar:
+    style: "docked"
+    background: "#FF6A00"
+    collapse-level: 1
+    search: true
+  
+#repo-url: https://github.com/HHuttelmaier/MSA_Einfuehrung
+#repo-actions: [issue]
+  
+format:
+  moodle-html

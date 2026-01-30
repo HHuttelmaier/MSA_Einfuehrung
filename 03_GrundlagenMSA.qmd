@@ -1,0 +1,58 @@
+# Grundlagen Marketing & Sales Automation
+## Was ist Marketing & Sales Automation?
+### Begriff und Ziel
+{{< video https://youtu.be/CjVLyP60MTI >}}
+
+### Warum versteht jeder etwas anderes darunter?
+{{< video https://youtu.be/rYLFFMrsX-U >}}
+
+### Beispiele
+{{< video https://youtu.be/0nt1INKt8AE >}}
+
+## Voraus besteht ein MSA-System?
+### Bestandteile eines MSA Systems
+{{< video https://youtu.be/qM8EF7kVAHw >}}
+
+### Ein sehr einfaches Beispiel
+
+{{< slider "Ein sehr einfaches Beispiel ..." "Bitte scanne den Barcode, fülle das Formular aus, gehe in deine Emails und klicke auf den Link. Was siehts du?" "media/ExperienceMSA.png" "WEITER" "Was wurde hier wie automatisiert?" "" "media/Explanation_MSA.mp3" "" >}}
+
+## Anbieter von MSA Systemen
+### Einige verbreitete Systeme 2026
+Der Markt für MSA Systeme ist sehr dynamisch und recht unübersichtlich. Eine gesicherte Aussage zu Einsatzhäufigkeit und Marktanteilen kaum möglich.
+
+
+![](media/MSA_Systeme.png)
+
+### MSA Systeme im Vergleich
+Ein Vergleich ist extrem schwer und hängt an vielen Voraussetzungen und Faktoren. Untenstehend ein paar Links zu Seiten, die verschiedene Systeme vergleichen. Am besten ist aber, ihr fragt Perfplexity, Gemini, Google & Co. einfach selbst...
+
+1. Marktüberblick Marketing Automation Software 2026 (erstellt mit Perplexity Januar 2026):
+```{=html}
+<iframe src="media/Marktueberblick_Marketing-Automation-Software_B2B_2026.pdf" width="100%" height="500px"></iframe>
+```
+
+2. Tool-Übersicht / Vergleich: OMR Software Guide Marketing Automation 2024 <https://www.omt.de/online-marketing-tools/marketing-automation-software/>
+
+3. Tool-Übersicht / Vergleich: <https://www.gartner.com/reviews/market/b2b-marketing-automation-platforms>
+
+4. Tool-Übersicht / Vergleich: [Martech Intelligence Report - Marketing Automation Platforms (2025)](https://downloads.martech.org/MIR_1602_B2BMrkgAuto_landingpage_responsive_dmdhome.html)
+
+5. Tool-Übersicht / Vergleich: <https://www.g2.com/categories/marketing-automation?utf8=✓&selected_view=grid&segment=all#grid>
+
+6. Eloqua vs. Marketo: <https://growthnatives.com/blogs/marketo/comparing-eloqua-and-marketo/>
+
+... und viele mehr ...
+
+## Was gilt es bei der Einführung von MSA zu beachten?
+### Fragen, die Ihr VOR Projektstart mit JA beantworten solltet
+{{< video https://youtu.be/uT9EGPGhorI >}}
+
+### Fragen, die Ihr VOR der Auswahl einer Software mit JA beantworten solltet
+{{< video https://youtu.be/mgvELTKTb9U >}}
+
+### Was gilt es bei Auswahl einer Lösung zu beachten?
+{{< video https://youtu.be/6iXTBpl1XMs >}}
+
+### Generelle Tipps
+{{< video https://youtu.be/poRbvyDYkok >}}

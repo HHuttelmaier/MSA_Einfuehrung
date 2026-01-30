@@ -1,0 +1,6 @@
+/.quarto/
+/_site/
+.DS_Store
+.python-version
+/site_libs/
+**/*.quarto_ipynb
