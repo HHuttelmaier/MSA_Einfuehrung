@@ -27,7 +27,7 @@ _Quelle (Grafik und Text): https://www.chainrelations.de/account-based-marketing
 ### Anwendungsbereiche für Account-Based Marketing
 {{< video https://youtu.be/LKEhthOAAKA >}}
 
-## Beispiele für Account-Based Marketing
+### Beispiele für Account-Based Marketing
 ```{=html}
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
