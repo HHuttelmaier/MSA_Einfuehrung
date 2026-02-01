@@ -17,8 +17,8 @@ book:
     - index.qmd
     - 02_Relevance.qmd
     - 03_GrundlagenMSA.qmd
-    - 04_LeadmgmtInboundAccount.md
-    - 05_Plattformen.md
+    - 04_LeadmgmtInboundAccount.qmd
+    - 05_Plattformen.qmd
   
   sidebar:
     style: "docked"

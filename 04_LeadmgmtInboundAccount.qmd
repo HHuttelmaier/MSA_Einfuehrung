@@ -1,17 +1,17 @@
 # Lead Management, Inbound- und Account-based Marketing
 ## Lead Management
 ### Grundlagen Lead Management
-VIDEO
+{{< video https://youtu.be/aUpTFDTX0S0 >}}
 
 ### Voraussetzung für ein erfolgreiches Lead Management: Alignment von Marketing & Vertrieb
-VIDEO
+{{< video https://youtu.be/FLcmgOuavzk >}}
 
 ## Inbound- und Account-Based Marketing
 ### Inbound Marketing
-VIDEO
+{{< video https://youtu.be/iwfoWoBiUMc >}}
 
 ### Grundlagen Account-Based Marketing
-VIDEO
+{{< video https://youtu.be/AfybIAPeQco >}}
 
 ### Ansätze für Account-Based Marketing
 Es können drei verschiedene Ansätze für ABM unterschieden werden. Klickt einfach auf die Buttons und erfahrt mehr darüber...
@@ -25,7 +25,7 @@ Es können drei verschiedene Ansätze für ABM unterschieden werden. Klickt einf
 _Quelle (Grafik und Text): https://www.chainrelations.de/account-based-marketing-abm/_
 
 ### Anwendungsbereiche für Account-Based Marketing
-VIDEO
+{{< video https://youtu.be/LKEhthOAAKA >}}
 
 ## Beispiele für Account-Based Marketing
 ```{=html}
@@ -58,4 +58,4 @@ VIDEO
 ```
 
 ### Inbound- vs. Account-Based Marketing
-VIDEO
+{{< video https://youtu.be/pqsDhAEpBzo >}}
